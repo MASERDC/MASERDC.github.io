@@ -65,12 +65,12 @@
     left: 10%;
     right: 10%;
     bottom: 10%;
-    width: 50%;
+    width: 60%;
 }
 
 .carousel-caption h1 {
     font-family: 'Open Sans', serif;
-    font-size: 1.35em;
+    font-size: 2.3em;
     font-weight: 300;
     padding: 10px;
     margin: 0;
@@ -82,7 +82,7 @@
 .carousel-caption p {
     font-family: 'Merriweather', serif;
     font-weight: lighter;
-    font-size: 0.87em;
+    font-size: 1.2em;
     padding: 10px;
     margin: 5px 0;
     background-color: rgba(0, 0, 0, 0.8);
@@ -221,7 +221,7 @@
 
 .pr-details h2 {
     font-family: 'Open Sans', serif;
-    font-size: 1em;
+    font-size: 2.5em;
     font-weight: 400;
     color: #888;
     text-align: center;
@@ -249,7 +249,7 @@
     background-color: #79ADEA;
     text-align: center;
     font-family: 'Open Sans', serif;
-    font-size: 0.9em;
+    font-size: 1.5em;
     font-weight: 400;
     color: #fff;
     padding: 5px 0;
