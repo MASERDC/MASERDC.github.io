@@ -1,3 +1,5 @@
 # MASERDC.github.io
-webpage for maserdc
-empty commit
+source code for maserdc webpage
+
+## Credits
+Tooplate-Style for webpage template. [Tooplate](https://www.tooplate.com/)
